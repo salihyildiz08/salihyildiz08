@@ -6,9 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asanakutlu&label=Profile%20views&color=0e75b6&style=flat" alt="asanakutlu" /> </p>
 
 
-- 🔭 Dilek Carpet Company [PayTr-Asp.NetMvc-Entagrasyonu](https://github.com/salihyildiz08/PayTr-Asp.NetMvc-Entagrasyonu)
-- 🔭 Asil Bureau Furniture Manufacturing and Trade and Limited. Company. [PhpSoapWebService_Nav](https://github.com/salihyildiz08/PhpSoapWebService_Nav)
-- 🔭 Asil Bureau Furniture Manufacturing and Trade and Limited. Company. [Save_Order_To_MicrosoftDynamicsNav_With_PHP](https://github.com/salihyildiz08/Save_Order_To_MicrosoftDynamicsNav_With_PHP)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
