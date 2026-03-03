@@ -19,5 +19,3 @@ I specialize in building high-performance, scalable backend systems using .NET 8
 
 ---
 
-### 📈 Stats
-![Salih's GitHub stats](https://github-readme-stats.vercel.app/api?username=salihyildiz08&show_icons=true&theme=radical)
